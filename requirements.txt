@@ -1,0 +1,9 @@
+pandas>=2.2
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=6.0
+kaleido>=1.0
+folium>=0.17
+requests>=2.31
+scikit-learn>=1.5
+jupyter
